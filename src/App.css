@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fcfcfc;
+}
+
+.App {
+  margin-top: 40px;
+}
+
+.App h3 {
+  margin-bottom: 15px;
+}
