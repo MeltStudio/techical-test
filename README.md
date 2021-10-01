@@ -16,3 +16,5 @@
 * Refresh knowledge about:
   * react / react native, 
   * redux (optional),
+
+NOTE: There is no need to fork or clone this repositry.
