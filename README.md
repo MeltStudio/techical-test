@@ -1,7 +1,7 @@
 # Technical-test
 
 ### The test will be about:
-* Testing your technical skills
+* Testing your technical skills with javascript or typescript
 
 ### What is about:
 * General programing concepts questions(verbal)
